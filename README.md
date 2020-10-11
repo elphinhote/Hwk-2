@@ -22,6 +22,8 @@ A hover image
 
 What I learned
 
+Reoccuring Navbar link
+Use of Bootstrap Grid System
 
 
 Submit
