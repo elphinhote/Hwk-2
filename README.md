@@ -8,6 +8,9 @@ An About-Us Page
 A Portfolio Page
 A Contact Page
 
+
+
+
 Features
 
 The webpages have the following:
@@ -18,4 +21,11 @@ Responsive images
 A hover image
 
 What I learned
+
+
+
+Submit
+
+URL of the deployed applications
+URL of the GitHub repositories
  
