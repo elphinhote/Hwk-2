@@ -8,7 +8,7 @@ An About-Us Page
 A Portfolio Page
 A Contact Page
 
-
+![About Me](https://user-images.githubusercontent.com/65749636/95671935-40105200-0b51-11eb-806a-507e084c7609.PNG)
 
 
 Features
